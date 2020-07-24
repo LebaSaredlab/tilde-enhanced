@@ -106,7 +106,7 @@ let CONFIG = {
       category: 'Misc',
       name: 'The Most Epic Timeless Playlist',
       key: 'r',
-      url: 'https://github.com/LebaSaredlab/deeper_meaning_music',
+      url: 'https://www.youtube.com/watch?v=TmQyfUpyeFk&list=PLUy10K2M4LVyQDZ9K5a_DPmo-lZn_gLzN&index=13',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'reddit',
