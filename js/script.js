@@ -126,7 +126,7 @@ let CONFIG = {
       category: 'Twitch Streams',
       name: 'Taffy',
       key: 'i',
-      url: 'https://imdb.com',
+      url: 'https://www.twitch.tv/taffy0821',
       search: '/find?ref_=nv_sr_fn&q={}',
       color: 'linear-gradient(135deg, #7A5F00, #E8B708)',
       icon: 'imdb',
