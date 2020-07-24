@@ -103,10 +103,10 @@ let CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Other',
-      name: 'Reddit',
+      category: 'Misc',
+      name: 'The Most Epic Timeless Playlist',
       key: 'r',
-      url: 'https://reddit.com',
+      url: 'https://github.com/LebaSaredlab/deeper_meaning_music',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'reddit',
