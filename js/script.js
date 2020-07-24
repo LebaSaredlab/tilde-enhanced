@@ -65,9 +65,9 @@ let CONFIG = {
     },
     {
       category: 'Tech',
-      name: 'HackerNews',
+      name: 'UltraUXThemePatcher',
       key: 'h',
-      url: 'https://news.ycombinator.com/',
+      url: 'https://www.syssel.net/hoefs/software_uxtheme.php?lang=en',
       search: '/search?stories[query]={}',
       color: 'linear-gradient(135deg, #FF6600, #DC5901)',
       icon: 'hackernews',
