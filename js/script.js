@@ -85,9 +85,9 @@ let CONFIG = {
     },
     {
       category: 'Fun',
-      name: 'Netflix',
+      name: 'FMovies',
       key: 'n',
-      url: 'https://www.netflix.com',
+      url: 'https://fmoviesgo.net/',
       color: 'linear-gradient(135deg, #E50914, #CB020C)',
       icon: 'netflix',
       quickLaunch: false,
