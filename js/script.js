@@ -84,6 +84,16 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
+      category: 'Tech',
+      name: 'Drop',
+      key: 's',
+      url: 'https://drop.com/home',
+      search: '/search?q={}',
+      color: 'linear-gradient(135deg, #53341C, #F48024)',
+      icon: 'stackoverflow',
+      quickLaunch: true,
+    },
+    {
       category: 'Fun',
       name: 'YouTube',
       key: 'y',
