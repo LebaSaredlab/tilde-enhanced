@@ -64,16 +64,6 @@ let CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Tech',
-      name: 'UltraUXThemePatcher',
-      key: 'h',
-      url: 'https://www.syssel.net/hoefs/software_uxtheme.php?lang=en',
-      search: '/search?stories[query]={}',
-      color: 'linear-gradient(135deg, #FF6600, #DC5901)',
-      icon: 'hackernews',
-      quickLaunch: true,
-    },
-    {
       category: 'Fun',
       name: 'YouTube',
       key: 'y',
