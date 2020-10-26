@@ -93,6 +93,16 @@ let CONFIG = {
       icon: 'stackoverflow',
       quickLaunch: true,
     },
+	{
+      category: 'Tech',
+      name: 'Hackaday',
+      key: 's',
+      url: 'https://hackaday.io/myFeed',
+      search: '/search?q={}',
+      color: 'linear-gradient(135deg, #53341C, #F48024)',
+      icon: 'stackoverflow',
+      quickLaunch: true,
+    },
     {
       category: 'Fun',
       name: 'YouTube',
