@@ -113,6 +113,16 @@ let CONFIG = {
       icon: 'youtube',
       quickLaunch: false,
     },
+	{
+      category: 'Fun',
+      name: 'SportSurge',
+      key: 'y',
+      url: 'https://sportsurge.net/',
+      search: '/results?search_query={}',
+      color: 'linear-gradient(135deg, #cd201f, #cd4c1f)',
+      icon: 'youtube',
+      quickLaunch: false,
+    },
     {
       category: 'Fun',
       name: 'FMovies',
