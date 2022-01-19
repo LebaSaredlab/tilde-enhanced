@@ -132,6 +132,15 @@ let CONFIG = {
       icon: 'netflix',
       quickLaunch: false,
     },
+	{
+      category: 'Fun',
+      name: 'Movie Blog by Shoobie',
+      key: 'n',
+      url: 'https://shoobielife.wordpress.com/',
+      color: 'linear-gradient(135deg, #E50914, #CB020C)',
+      icon: 'netflix',
+      quickLaunch: false,
+    },
     {
       category: 'Fun',
       name: 'Twitch',
