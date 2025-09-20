@@ -125,9 +125,9 @@ let CONFIG = {
     },
     {
       category: 'Fun',
-      name: 'FMovies',
+      name: 'Hydra Movies',
       key: 'n',
-      url: 'https://fmoviesgo.net/',
+      url: 'https://hydrahd.io/',
       color: 'linear-gradient(135deg, #E50914, #CB020C)',
       icon: 'netflix',
       quickLaunch: false,
